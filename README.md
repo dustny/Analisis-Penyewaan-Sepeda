@@ -1,6 +1,6 @@
 ## Setup Environment -Shell/ Terminal
 ```
-mkdir Data Analisis Dengan Python Project
+git clone https://github.com/dustny/Analisis-Penyewaan-Sepeda.git
 cd Data Analisis Dengan Python Project
 pipenv install
 pipenv shell
